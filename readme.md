@@ -1,6 +1,6 @@
 # matrix-definitions
 
-Contains the 'mathematical description of matrix operations' according to Numerical Linear Algebra, Lloyd N. Trefethen, David Bau III. The
+Contains the 'mathematical description of matrix operations' according to Numerical Linear Algebra, Lloyd N. Trefethen, David Bau III.
 
 ## Idea
 
